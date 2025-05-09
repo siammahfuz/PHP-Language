@@ -52,7 +52,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/PHP-Language.git
+git clone https://github.com/siammahfuz/PHP-Language
 cd PHP-Language
 Run PHP examples locally:
 
